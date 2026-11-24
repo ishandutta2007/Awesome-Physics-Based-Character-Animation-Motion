@@ -6,10 +6,12 @@
 
 ### 🎮 The Definitive Ecosystem of SaaS Platforms, Neural Motion Synthesis, and DRL Character Controllers
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Physics-Simulation-Engine-Robotics-Simulation/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Physics-Simulation-Engine-Robotics-Simulation/graphs/commit-activity)
 [![Topics](https://img.shields.io/badge/Topic-Physics--Based%20Animation%20%7C%20DRL%20Locomotion-blueviolet.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Physics-Simulation-Engine-Robotics-Simulation)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
   A curated directory of bleeding-edge <b>SaaS products</b>, <b>open-source AI frameworks</b>, and <b>simulation libraries</b> for <b>physics-based character animation</b>, <b>markerless motion capture (mocap)</b>, <b>deep reinforcement learning (DRL) locomotion</b>, and <b>neural motion diffusion</b>.
@@ -26,6 +28,8 @@
 - [💻 Open-Source GitHub Projects & Frameworks](#-open-source-github-projects--frameworks)
 - [🛠️ Pipeline Architecture & Integration Guide](#️-pipeline-architecture--integration-guide)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
 - [⚖️ Disclaimer & Licensing](#️-disclaimer--licensing)
 
 ---
@@ -118,6 +122,24 @@ Contributions are welcome! Help keep this repository the primary resource for ph
    - For SaaS tools: Name, capabilities, starting tier price, specific free tier limits, and valuation/scale.
    - For Open-Source: Name, star badge with `style=social&color=white` linking to the stargazers page, tech stack, and summary.
 4. 🚀 **Submit a Pull Request** with a concise description of why the tool qualifies.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring this ecosystem! If you found this curated resource helpful for your work, research, or indie game pipelines, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and share** it with fellow game animators, graphics programmers, and AI researchers.
+- ☕ **Buy a coffee / Sponsor**: If you'd like to back ongoing maintenance, data benchmarking, and curation across the awesome series, you can sponsor through the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**!
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Physics-Based-Character-Animation-Motion&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Physics-Based-Character-Animation-Motion&type=date&legend=top-left)
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Physics-Based-Character-Animation-Motion&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Physics-Based-Character-Animation-Motion&type=date&legend=top-left)
 
 ---
 
