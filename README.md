@@ -62,9 +62,9 @@ The following SaaS and hosted platforms offer AI-assisted keyframing, cloud mark
 
 ## 💻 Open-Source GitHub Projects & Frameworks
 
-A comprehensive list of premier open-source libraries for physics-based character control, deep reinforcement learning (DRL), generative human motion models, and rigging tools. **Ranked in descending order by GitHub Stars ⭐**.
+A comprehensive list of premier open-source libraries for physics-based character control, deep reinforcement learning (DRL), generative human motion models, and rigging tools. **Ranked in descending order by GitHub_Stars ⭐**.
 
-| 📦 Repository & Framework | ⭐ Stars | 🛠️ Core Focus & Tech Stack | 📖 Overview & Capabilities |
+| 📦 Repository & Framework | ⭐ GitHub_Stars | 🛠️ Core Focus & Tech Stack | 📖 Overview & Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[Google MediaPipe](https://github.com/google-ai-edge/mediapipe)** | [![Stars](https://img.shields.io/github/stars/google-ai-edge/mediapipe?style=social&color=white)](https://github.com/google-ai-edge/mediapipe/stargazers) | ⚡ Vision ML / Pose Tracking | Cross-platform, ultra-fast real-time 3D skeletal landmark, face mesh, and hand tracking library running on mobile, web, and desktop. |
 | **[FreeMoCap](https://github.com/freemocap/freemocap)** | [![Stars](https://img.shields.io/github/stars/freemocap/freemocap?style=social&color=white)](https://github.com/freemocap/freemocap/stargazers) | 🎥 Markerless Multi-Cam Mocap | Free, open-source multi-camera markerless motion capture system built for animators, biomechanists, and game developers without proprietary suits. |
@@ -120,7 +120,7 @@ Contributions are welcome! Help keep this repository the primary resource for ph
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-animation-tool`.
 3. 📝 **Add entries** following the tabular format:
    - For SaaS tools: Name, capabilities, starting tier price, specific free tier limits, and valuation/scale.
-   - For Open-Source: Name, star badge with `style=social&color=white` linking to the stargazers page, tech stack, and summary.
+   - For Open-Source: Name, Stars_Badge with `style=social&color=white` linking to the stargazers page, tech stack, and summary.
 4. 🚀 **Submit a Pull Request** with a concise description of why the tool qualifies.
 
 ---
